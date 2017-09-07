@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unmeng_Share_Librarys</string>
+    <string name="umeng_copylink_btn">复制链接</string>
+    <string name="umeng_mobile_btn">手机联系</string>
+</resources>
